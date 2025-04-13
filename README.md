@@ -6,3 +6,6 @@
 - 🤔 Mission: I wanna poke ma'head into CyberWorld (Future ofc✌️) 
 - ⚡ For now a mere 3rd year kiddo knowing nothing but #include<stdio.h>  😉
 
+
+#Woking privately on: AuraCall 
+
