@@ -1,9 +1,10 @@
 ## Hi there 👋 Eeshzz24K here
 
-- 🔭Currently working on AuraCall😎
+- 🔭Currently working on AuraBuild😎
 - 🔭 Worked on MiniProj: Terminal Velocity and MicroProj: Pomodoro Timer 😺
 - 🌱Ah!! Currently learning tools and stuff of CyberSequrity 😏
-- 🤔 Mission: I wanna poke ma'head into CyberWorld (Future ofc✌️) 
+- Future Task: Build AuraCall😊
+- 🤔 Mission: I wanna poke my head into CyberWorld (Future ofc✌️) 
 - ⚡ For now a mere 3rd year kiddo knowing nothing but #include<stdio.h>  😉
 
 
