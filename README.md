@@ -1,4 +1,4 @@
-## Hi there 👋 Eeshzz24K here
+## Hi there 👋 Eesh24K here
 
 - 🔭 Worked on MiniProj: Terminal Velocity and MicroProj: Pomodoro Timer!
 - 🌱Working on FinalProj: Virtual Try-On for Accessories.
